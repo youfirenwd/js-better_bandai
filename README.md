@@ -1,0 +1,2 @@
+# js-better_bandai
+HUMBLE HOMAGE OF BETTER BANDAI.
